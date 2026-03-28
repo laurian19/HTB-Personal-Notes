@@ -11,10 +11,24 @@
             "id": "801ca1cae330dc2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/Daily Note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Daily Note"
             }
           }
         ]
@@ -177,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faf645c9212d32b6",
+  "active": "801ca1cae330dc2f",
   "lastOpenFiles": [
     "templates/Daily Note.md",
     "Daily-Notes/Untitled.md",
