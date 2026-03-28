@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e428ed840b982e2",
+        "id": "295a538db919634c",
         "type": "tabs",
         "children": [
           {
-            "id": "4a1678420e3349f3",
+            "id": "801ca1cae330dc2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -181,6 +177,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a1678420e3349f3",
-  "lastOpenFiles": []
+  "active": "faf645c9212d32b6",
+  "lastOpenFiles": [
+    "templates/Daily Note.md",
+    "Daily-Notes/Untitled.md",
+    "templates",
+    "Daily-Notes",
+    "2026-03-28.md",
+    "HTB-Academy/Job-Role-Path/SOC-Analyst/Resources.md",
+    "README.md",
+    "HTB-Academy/Job-Role-Path/SOC-Analyst",
+    "HTB-Academy/Job-Role-Path/Analyst",
+    "HTB-Academy/Job-Role-Path/SOC",
+    "HTB-Academy/Job-Role-Path",
+    "HTB-Academy/Paths",
+    "HTB-Labs",
+    "HTB-Academy"
+  ]
 }
