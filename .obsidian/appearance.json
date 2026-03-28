@@ -1,5 +1,8 @@
 {
   "cssTheme": "Dracula Official",
   "accentColor": "#51fb65",
-  "showRibbon": true
+  "showRibbon": true,
+  "interfaceFontFamily": "Courier",
+  "textFontFamily": "Courier New",
+  "monospaceFontFamily": "Source Code Pro"
 }
