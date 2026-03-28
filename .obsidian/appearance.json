@@ -4,5 +4,6 @@
   "showRibbon": true,
   "interfaceFontFamily": "Courier",
   "textFontFamily": "Courier New",
-  "monospaceFontFamily": "Source Code Pro"
+  "monospaceFontFamily": "Source Code Pro",
+  "nativeMenus": false
 }
