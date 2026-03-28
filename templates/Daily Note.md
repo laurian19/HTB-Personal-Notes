@@ -9,9 +9,7 @@
 - [ ] 
 - [ ] 
 - [ ] 
-
-
-
+- [ ] 
 
 ## Schedule
 - [ ] Morning:
@@ -38,16 +36,7 @@
 - [ ] 
 - [ ] 
 
-## Wins
-- 
-- 
-
-## Challenges
-- 
-- 
-
 ## Reflection
 
 
 ## Links
-
