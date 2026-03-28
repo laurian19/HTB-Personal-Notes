@@ -10,6 +10,9 @@
 - [ ] 
 - [ ] 
 
+
+
+
 ## Schedule
 - [ ] Morning:
 - [ ] Afternoon:
@@ -44,15 +47,7 @@
 - 
 
 ## Reflection
-### What went well?
-- 
 
-### What could be better?
-- 
-
-### What should I focus on tomorrow?
-- 
 
 ## Links
-- [[{{date-1d:YYYY-MM-DD}}|Yesterday]]
-- [[{{date+1d:YYYY-MM-DD}}|Tomorrow]]
+
