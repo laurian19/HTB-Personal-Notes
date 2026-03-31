@@ -2,6 +2,7 @@
 - **Date**: Sunday, March 29, 2026
 - **Tags**: #SIEM #SIM #SEM #ELK #Elasticsearch #Logstash #Kibana #Kafka #Redis #RabbitMQ #Nginx #Beats #KQL #ECS #SOC #MITTRE #SOP #SLA #OLA #MSBuilt #LolBins #Alert_Triaging
 - **Description**: This module provides a concise yet comprehensive overview of Security Information and Event Management (SIEM) and the Elastic Stack. It demystifies the essential workings of a Security Operation Center (SOC), explores the application of the MITRE ATT&CK framework within SOCs, and introduces SIEM (KQL) query development. With a focus on practical skills, students will learn how to develop SIEM use cases and visualizations using the Elastic Stack.
+- **Link to the module**: https://academy.hackthebox.com/app/module/211
 
 ---
 # SIEM Definition & Fundamentals
