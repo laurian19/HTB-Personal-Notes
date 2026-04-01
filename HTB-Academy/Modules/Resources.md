@@ -83,5 +83,24 @@
 38. [Identification of malware based on .NET using SilkETW -- blog](https://medium.com/threat-hunters-forge/threat-hunting-with-etw-events-and-helk-part-1-installing-silketw-6eb74815e4a0)
 	
 39. [Get-WinEvent -- documentation](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent?view=powershell-7.6&viewFallbackFrom=powershell-7.3) 
+
+---
+# [[Introduction to Threat Hunting & Hunting With Elastic]]
+
+40. [Emotet Malware -- advisory using MITRE](https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-280a)
 	
-40. 
+41. [Pyramid of pain -- presentation](https://rvasec.com/slides/2014/Bianco_Pyramid%20of%20Pain.pdf) 
+	
+42. [The Diamond Model of Intrusion Analysis -- paper](https://apps.dtic.mil/sti/pdfs/ADA586960.pdf) 
+	
+43. [Hunting for Malicious PowerShell using Script Block Logging -- blog](https://www.splunk.com/en_us/blog/security/hunting-for-malicious-powershell-using-script-block-logging.html)
+	
+44. [Zeek fields within Elastic -- documentation](https://www.elastic.co/docs/reference/beats/filebeat/exported-fields-zeek) 
+	
+45. [Lateral Tool Transfer -- MITRE](https://attack.mitre.org/techniques/T1570/)
+	
+46. [Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder](https://attack.mitre.org/techniques/T1547/001/) 
+	
+47. [PowerShell Remoting for Lateral Movement](https://www.ired.team/offensive-security/lateral-movement/t1028-winrm-for-lateral-movement)
+
+---

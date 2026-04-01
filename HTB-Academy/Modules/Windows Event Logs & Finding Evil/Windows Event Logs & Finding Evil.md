@@ -1,6 +1,6 @@
 - **Username**: `cartofelplm`
 - **Date**: Monday, March 30, 2026
-- **Tags**: #Event_Viewer #XML #Sysmon #DLL_Hijack #CRL #Proceess_Hacker #Execute_Assembly #Unmanaged_PowerShell_Injection #PSInject #Credential_Dumping #Mimikatz #ETW #Logman #Performance_Monitor #EtwExplorer #Parent_PID_Spoofing #SilkETW #LolBins #BYOL #CobaltStrike #Seatbelt #Get_WinEvent #LSASS #LSASS_Dump
+- **Tags**: #Event_Viewer #XML #Sysmon #DLL_Hijack #CRL #Proceess_Hacker #Execute_Assembly #Unmanaged_PowerShell_Injection #PSInject #Credential_Dumping #Mimikatz #ETW #Logman #Performance_Monitor #EtwExplorer #Parent_PID_Spoofing #SilkETW #LolBins #BYOL #CobaltStrike #Seatbelt #Get_WinEvent #LSASS #LSASS_Dump #IoC
 - **Description**: This module covers the exploration of Windows Event Logs and their significance in uncovering suspicious activities. Throughout the course, we delve into the anatomy of Windows Event Logs and highlight the logs that hold the most valuable information for investigations. The module also focuses on utilizing Sysmon and Event Logs for detecting and analyzing malicious behavior. Additionally, we delve into Event Tracing for Windows (ETW), explaining its architecture and components, and provide ETW-based detection examples. To streamline the analysis process, we introduce the powerful Get-WinEvent cmdlet.
 - **Link to the module**: https://academy.hackthebox.com/app/module/216
 
