@@ -104,3 +104,23 @@
 47. [PowerShell Remoting for Lateral Movement](https://www.ired.team/offensive-security/lateral-movement/t1028-winrm-for-lateral-movement)
 
 ---
+# [[Understanding Log Sources & Investigating with Splunk]]
+
+48. [Splunkbase -- documentation with Splunk apps](https://splunkbase.splunk.com/)
+	
+49. Get started with Splunk
+	- [https://docs.splunk.com/Documentation/SCS/current/SearchReference/Introduction](https://docs.splunk.com/Documentation/SCS/current/SearchReference/Introduction)
+	- [https://docs.splunk.com/Documentation/SplunkCloud/latest/SearchReference/](https://docs.splunk.com/Documentation/SplunkCloud/latest/SearchReference/)
+	- [https://docs.splunk.com/Documentation/SplunkCloud/latest/Search/](https://docs.splunk.com/Documentation/SplunkCloud/latest/Search/)
+	
+50. Data sources for Splunk
+	- [BOTS](https://github.com/splunk/botsv3)
+	- [nginx_json_logs](https://raw.githubusercontent.com/elastic/examples/refs/heads/master/Common%20Data%20Formats/nginx_json_logs/nginx_json_logs)
+	
+51. [Traces of Windows remote command execution](https://www.synacktiv.com/publications/traces-of-windows-remote-command-execution)
+	
+52. [Splunking with Sysmon Part 3: Detecting PsExec in your Environment](https://hurricanelabs.com/splunk-tutorials/splunking-with-sysmon-part-3-detecting-psexec-in-your-environment/)
+	
+53.  
+
+---
