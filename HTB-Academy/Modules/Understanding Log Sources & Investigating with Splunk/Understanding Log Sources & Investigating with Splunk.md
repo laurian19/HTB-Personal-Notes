@@ -277,7 +277,8 @@ In this query:
 - `search index="main" sourcetype="WinEventLog:Sysmon" EventCode=1 | top limit=100 Image | fields Image`: The subsearch that fetches `EventCode=1 (Process Creation)` events, then uses the `top` command to return the 100 most common `Image` (process) names.
 - `table _time, Image, CommandLine, User, Computer`: This presents the final results as a table, displaying the timestamp of the event (`_time`), the process name (`Image`), the command line used to execute the process (`CommandLine`), the user that executed the process (`User`), and the computer on which the event occurred (`ComputerName`).
 
-This query can help to highlight unusual or rare processes, which may be worth investigating for potential malicious activity. Be sure to adjust the limit in the subsearch as necessary to fit your environment.  
+This query can help to highlight unusual or rare processes, which may be worth investigating for potential malicious activity. Be sure to adjust the limit in the subsearch as necessary to fit your environment. 
+
 As a note, this type of search can generate a lot of noise in environments where new and unique processes are frequently created, so careful tuning and context are important.
 
 ---
@@ -367,7 +368,7 @@ This search will return a table that includes every field found in the events re
 We may also see:
 
 - `modes`: The most common values of the field.
-	- `numBuckets`: The number of buckets used to estimate the distinct count.
+- `numBuckets`: The number of buckets used to estimate the distinct count.
 
 Please note that the values provided by the `fieldsummary` command are calculated based on the events returned by our search. So if we want to see all fields within a specific `sourcetype`, we need to make sure our time range is large enough to capture all possible fields.
 
@@ -464,7 +465,6 @@ We used the following SPL query:
 ```
 index="*" EventCode=4768 
 | stats count by Account_Name 
-| table Account_Name, count
 | sort - count
 ```
 

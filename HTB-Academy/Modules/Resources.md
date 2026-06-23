@@ -120,7 +120,12 @@
 51. [Traces of Windows remote command execution](https://www.synacktiv.com/publications/traces-of-windows-remote-command-execution)
 	
 52. [Splunking with Sysmon Part 3: Detecting PsExec in your Environment](https://hurricanelabs.com/splunk-tutorials/splunking-with-sysmon-part-3-detecting-psexec-in-your-environment/)
-	
-53.  
 
 ---
+# [[Windows Attacks & Defences]]
+
+53. [Administrative tools and logon types](https://learn.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
+	
+54. [How to use Responder to capture NetNTLM and grab a shell](https://www.a2secure.com/blog-en/how-to-use-responder-to-capture-netntlm-and-grab-a-shell/) 
+	
+55. 
