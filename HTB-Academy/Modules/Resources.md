@@ -127,5 +127,13 @@
 53. [Administrative tools and logon types](https://learn.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
 	
 54. [How to use Responder to capture NetNTLM and grab a shell](https://www.a2secure.com/blog-en/how-to-use-responder-to-capture-netntlm-and-grab-a-shell/) 
+
+
+---
+# [[Web Fundamentals]]
+
+1. [List with all HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 	
-55. 
+2. [List with standard HTTP status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+	
+3. 
